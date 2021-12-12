@@ -1,2 +1,2 @@
 # Arowanacoin3
-Test version of Arowanacoin (new base and for android)
+New version of Arowanacoin (new core and for android)
